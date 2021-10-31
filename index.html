@@ -9,8 +9,8 @@
   <title>Kita Book Search Engine</title>
 </head>
 <body>
-  <div class="container" style="padding:10px 50px;">
-    <h1>Book Search</h1>
+  <div class="container " style="padding:10px 50px;">
+    <h1 >Book Search</h1>
 	<form role="form">
         <div class="form-group">
           <input type="input" class="form-control input-lg" id="txt-search" placeholder="Search book,author or by category ">
@@ -30,6 +30,8 @@
             "category": "Advance Readers",
             "author": "Ayn Rand",
             "url": "https://kitaofficial.com/the-fountainhead/",
+            "rating": "3",
+            "review": "Good to read for age 1 to 5",
             "profile_image": "default_profile.png"
         },
         {
@@ -428,6 +430,12 @@ $('#txt-search').keyup(function(){
 				  output += '<h4>' + val.name + '<span class="badge badge-danger">Title</span> </h4>';
                   output += '<b class="btn btn-info">' + val.category + '</b>';
 				  output += '<h4> <a href= " '+val.url+'"> Click to Read</a> </h4>';
+                  output += '<div class="col-md-12 well">';
+                  output += '<b>Kita Review</b><br/>'
+                  //output += '<b class="btn btn-primary ">'+val.rating+'/5 <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"> <img src="bookmark-star.svg"/> </span></b><br/>';
+                  //output += '<i>'+val.review+'</i><br/>'
+                  output += '<div class="alert alert-success" role="alert">Kita Premium reviews will be here soon</div>';
+                  output += '</div>';
 				  output += '</div>';
 				  output += '</div>';
 				  if(count%2 == 0){
