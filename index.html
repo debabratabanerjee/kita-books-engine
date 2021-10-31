@@ -425,8 +425,8 @@ $('#txt-search').keyup(function(){
 				  output += '<div class="col-md-6 well">';
 				  output += '<div class="col-md-3"><img class="img-responsive" src="'+val.profile_image+'" alt="'+ val.employee_name_car +'" /></div>';
 				  output += '<div class="col-md-7">';
-				  output += '<h4>' + val.name + '</h4>';
-                  output += '<b>' + val.category + '</b>';
+				  output += '<h4>' + val.name + '<span class="badge badge-danger">Title</span> </h4>';
+                  output += '<b class="btn btn-info">' + val.category + '</b>';
 				  output += '<h4> <a href= " '+val.url+'"> Click to Read</a> </h4>';
 				  output += '</div>';
 				  output += '</div>';
