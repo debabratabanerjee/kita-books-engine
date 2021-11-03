@@ -1,0 +1,389 @@
+[
+
+    {
+        "id": "1",
+        "name": "The Fountainhead",
+        "category": "Advance Readers",
+        "author": "Ayn Rand",
+        "url": "https://kitaofficial.com/the-fountainhead/",
+        "rating": "3",
+        "review": "Good to read for age 1 to 5",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "2",
+        "name": "Atlas Shrugged",
+        "category": "Advance Readers",
+        "author": "Ayn Rand",
+        "url": "https://kitaofficial.com/atlas-shrugged/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "3",
+        "name": "Deception point",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "http://kitaofficial.com/deception-point/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "4",
+        "name": "Angels and Demons",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "https://kitaofficial.com/angels-and-demons/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "5",
+        "name": "The Lost Symbol",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "https://kitaofficial.com/the-lost-symbol/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "6",
+        "name": "The Da Vinci Code",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "https://kitaofficial.com/the-da-vinci-code/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "7",
+        "name": "Origin",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "https://kitaofficial.com/origin/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "8",
+        "name": "Inferno",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "https://kitaofficial.com/inferno/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "9",
+        "name": "Digital Fortress a Thriller",
+        "category": "Advance Readers",
+        "author": "Dan Brown",
+        "url": "https://kitaofficial.com/digital-fortress-a-thriller/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "10",
+        "name": "Your are a Badass",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "11",
+        "name": "The gift of imperfection",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/the-gifts-of-imperfection_-embrace-who-you-are/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "12",
+        "name": "The 5 Second Rule",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/the-5-second-rule_-transform-your-life-work-and-confidence-with-everyday-courage/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "13",
+        "name": "Living in the Light ",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/living-in-the-light_-a-guide-to-personal-transformation/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "14",
+        "name": "Law Of Success",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/law-of-success-21st-century-edition/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "15",
+        "name": "Give And Take",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/give-and-take/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "16",
+        "name": "How to Win Every Argument",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/how-to-win-every-argument/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "17",
+        "name": "Boundaries",
+        "category": "Advance Readers",
+        "author": "Life",
+        "url": "https://kitaofficial.com/boundaries_-when-to-say-yes-how-to-say-no-to-take-control-of-your-life-2/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "18",
+        "name": "Veronika Decides to Die",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/veronika-decides-to-die/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "19",
+        "name": "The Zahir",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-zahir/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "20",
+        "name": "The Witch of Portobello",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-witch-of-portobello/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "21",
+        "name": "The Winner Stands Alone",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-winner-stands-alone/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "22",
+        "name": "The Pilgrimage",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-pilgrimage/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "23",
+        "name": "The Valkyries",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-valkyries_-an-encounter-with-angels/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "24",
+        "name": "The Fifth Mountain",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-fifth-mountain/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "25",
+        "name": "The Devil and Miss Prym",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-devil-and-miss-prym/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "26",
+        "name": "The Alchemist",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/the-alchemist/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "27",
+        "name": "Like the Flowing River",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/like-the-flowing-river/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "28",
+        "name": "Brida",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/brida/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "29",
+        "name": "Adultery",
+        "category": "Advance Readers",
+        "author": "Paulo Coelho",
+        "url": "https://kitaofficial.com/adultery/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "30",
+        "name": "Weather",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/weather/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "31",
+        "name": "Shape 1",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/shape1/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "32",
+        "name": "Shape 2",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/shape2/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "33",
+        "name": "Mini FC Halloween",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/mini-fc-halloween/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "34",
+        "name": "Mini FC Animals",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/mini-fc-animals/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "35",
+        "name": "Happy Birthday",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/happy-birthday/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "36",
+        "name": "Food 1",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/food1/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "37",
+        "name": "Emotion",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/emotion/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "38",
+        "name": "Counting 1",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/counting1/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "39",
+        "name": "Counting 2",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/counting2",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "40",
+        "name": "Clothes",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/clothes/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "41",
+        "name": "Christmas",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/christmas/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "42",
+        "name": "Bath Song",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/bath-song/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "43",
+        "name": "Animal Flashcard",
+        "category": "Flashcards",
+        "url": "https://kitaofficial.com/animal-flashcard/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "44",
+        "name": "Access Grammar 1",
+        "category": "Grammar",
+        "url": "https://kitaofficial.com/access-grammar-1/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "45",
+        "name": "Access Grammar 2",
+        "category": "Grammar",
+        "url": "https://kitaofficial.com/access-grammar-2/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "46",
+        "name": "Access Grammar 3",
+        "category": "Grammar",
+        "url": "https://kitaofficial.com/access-grammar-3/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "47",
+        "name": "Active Grammar 1",
+        "category": "Grammar",
+        "author": "Nigel Turton",
+        "url": "https://kitaofficial.com/active-grammar-vol-1-by-nigel-turton/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "48",
+        "name": "Active Grammar 2",
+        "category": "Grammar",
+        "author": "Nigel Turton",
+        "url": "https://kitaofficial.com/active-grammar-vol-2-by-nigel-turton/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "49",
+        "name": "Active Grammar 1",
+        "category": "Grammar",
+        "author": "Intermediate",
+        "url": "https://kitaofficial.com/grammar-activities-intermediate-1/",
+        "profile_image": "default_profile.png"
+    },
+    {
+        "id": "50",
+        "name": "Active Grammar 2",
+        "category": "Grammar",
+        "author": "Intermediate",
+        "url": "https://kitaofficial.com/grammar-activities-2/",
+        "profile_image": "default_profile.png"
+    }
+
+]
