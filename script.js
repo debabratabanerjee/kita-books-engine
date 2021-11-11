@@ -14,12 +14,12 @@ $(document).ready(function () {
         var output = '<div class="row">';
         var count = 1;
         $.each(data, function (key, val) {
-            if ((val.category.search(regex) != -1) || (val.name.search(regex) != -1)) {
+            if ((val.categoties.search(regex) != -1) || (val.title.search(regex) != -1)) {
                 output += '<div class="col-md-6 well">';
                 output += '<div class="col-md-3"><img class="img-responsive" src="' + val.profile_image + '" alt="' + val.employee_name_car + '" /></div>';
                 output += '<div class="col-md-7">';
-                output += '<h4>' + val.name + '<span class="badge badge-danger">Title</span> </h4>';
-                output += '<b class="btn btn-info">' + val.category + '</b>';
+                output += '<h4>' + val.title + '<span class="badge badge-danger">Title</span> </h4>';
+                output += '<b class="btn btn-info">' + val.categoties + '</b>';
                 output += '<h4> <a href= " ' + val.url + '"> Click to Read</a> </h4>';
                 output += '<div class="col-md-12 well">';
                 output += '<b>Kita Review</b><br/>'
